@@ -6,7 +6,7 @@
 que fazem parte da nossa sociedade atual! 
 <br><br>
  
-💻 Atualmente estudante DeV Full Stack 
+💻 Desenvolvedora fullstack
  
 🎥 Edições Mobile 
 
