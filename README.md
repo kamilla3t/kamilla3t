@@ -25,10 +25,12 @@ que fazem parte da nossa sociedade atual!
     
 <div align="center" style="display: inline_block"><br>
 <h1>Liguagens para Front-End</h1>
-<img align="center" alt="fabriciominowa-Js" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="fabriciominowa-Ts" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
-<img align="center" alt="fabriciominowa-HTML"height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="fabriciominowa-CSS" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="kamilla3t-Js" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="kamilla3t-Ts" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
+<img align="center" alt="kamilla3t-HTML"height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="kamilla3t-CSS" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt= "kamilla3t-c#" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
+
 <h1>Frameworks-Front-End</h1>
 <img align="center" alt="fabriciominowa-bootstrap" height="70" width="70" src="https://cdn3.iconfinder.com/data/icons/logos-3/250/angular-512.png" />
 
